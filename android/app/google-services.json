@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "107610614309",
+    "firebase_url": "https://robo-combat-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "robo-combat",
+    "storage_bucket": "robo-combat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107610614309:android:d9ee133ecf6a2da36c6dcc",
+        "android_client_info": {
+          "package_name": "com.example.robo_combat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjNd8-2NPf6bqb-YBhZYvRY_g21jhm1Pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
